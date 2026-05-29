@@ -1,20 +1,20 @@
-## I am Saifana Awansila ☁️
+<div align="center">
 
-![Saifana Awansila](img/banner2.jpg)
+# I am Saifana Pasya Awansila ☁️
 
+<!-- Menggunakan tag <div> agar gambar terpusat -->
+<img src="img/banner2.jpg" alt="Saifana Awansila" width="100%">
 
+### Freelance Web & Mobile Developer
+*Building scalable solutions with React.js & Flutter.*
 
-<!--
-**saifanCloud/saifanCloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔭 Currently working on
+- Developing web solutions for UMKM and business clients
+- Strengthening expertise in React.js and Flutter ecosystems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Reach me
+- **Freelance Inquiries:** Open for business collaborations
+
+</div>
