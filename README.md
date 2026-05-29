@@ -4,7 +4,7 @@
 
 *Mobile Developer | Building intuitive, high-performance apps with Flutter.*
 
-<img src="img/banner2.jpg" alt="Saifana Awansila" width="100%">
+<img src="img/banner2.jpg" alt="Saifana Awansila" width="80%">
 
 # 💫 About Me:
 As a mobile developer, my focus isn't just on building apps, but on bridging real-world problems into intuitive digital solutions. Through the implementation of Clean Architecture and a keen sense of curiosity, I continually develop to create optimal app performance.
