@@ -1,6 +1,6 @@
 ## I am Saifana Awansila ☁️
 
-![Saifana Awansila](img/banner1.jpg)
+![Saifana Awansila](img/banner2.jpg)
 
 
 
